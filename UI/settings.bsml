@@ -1,0 +1,16 @@
+﻿<bg xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' 
+	xsi:schemaLocation='https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd'
+	>
+	<vertical bg="round-rect-panel" pad="4" spacing="-1">
+		<stack>
+		</stack>
+		<string-setting text="Solo text" value="soloText" apply-on-change="true"/>
+		<string-setting text="Online text" value="onlineText" apply-on-change="true"/>
+		<string-setting text="Campaign text" value="campaignText" apply-on-change="true"/>
+		<string-setting text="Party text" value="partyText" apply-on-change="true"/>
+			<text color='cyan'  text="Custom Menu Text by Speecil" align='Center'/>
+			<text color='magenta'  text="My first PC mod" align='Center'/>
+
+	</vertical>
+	
+</bg>
