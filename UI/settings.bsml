@@ -10,7 +10,6 @@
 		<string-setting text="Party text" value="partyText" apply-on-change="true"/>
 			<text color='cyan'  text="Custom Menu Text by Speecil" align='Center'/>
 			<text color='magenta'  text="My first PC mod" align='Center'/>
-
 	</vertical>
 	
 </bg>

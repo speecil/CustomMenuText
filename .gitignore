@@ -1,0 +1,6 @@
+*dll
+*vsidx
+
+bin/*
+obj/*
+*.user
